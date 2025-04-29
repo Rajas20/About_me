@@ -5,7 +5,7 @@ I am Rajas Shilare , a Data Science student - an Aspiring Data Analyst and enthu
 
 ## Tools & Tech Stack 
 
-Languages : Java , Python , C , HTML+CSS , JavaScript
+Languages : Java , Python , C , HTML+CSS , JavaScript 
 Developer Tools : VS Code , Jupyter Notebooks , IntelliJ IDEA , Git/Github
 Database : SQL , MongoDB , phpMyAdmin
 Visualization Tool : PowerBi , Tableau , Excel ,Docs
